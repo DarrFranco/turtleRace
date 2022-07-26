@@ -1,0 +1,1 @@
+1. need to do CMD + SHIFT + P to change interpreter to the CONDA env
